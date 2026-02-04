@@ -6,7 +6,7 @@ I am interested in performance issues in GPU × Trusted Computing × Cryptograph
 
 Recently, I have focused on understanding and addressing performance issues (e.g., data movement [ISCA'25]) in secure GPU architectures like confidential computing [ISPASS'25, +].
 
-I am also interested in making cryptographic protocols (e.g., PIR and FHE) more practical using GPUs.
+I am also interested in making cryptographic protocols (e.g., PIR/DEPIR and FHE) more practical using GPUs.
 
 Check my homepage: [here](https://elio-yang.github.io/)
 
